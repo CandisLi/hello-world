@@ -1,2 +1,4 @@
 # hello-world
-Just a start view of github
+Hello~
+This a new word for me.
+I wish i can be an excellent data analyst ^_^
